@@ -1,7 +1,10 @@
 body {
     font-family: "Arial", "Meiryo", sans-serif;
-    font-size: 20px;
 }
+
+html {
+    font-size: 20px;
+} 
 
 .blue {
     color: skyblue;
